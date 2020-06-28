@@ -1,4 +1,4 @@
-# netflix_ui_27_06_2020
+# netflix_ui_Flutter
 
 A new Flutter application.
 
